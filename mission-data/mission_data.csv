@@ -1,6 +1,5 @@
 ,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Mission No.,Type No.,Launch Vehicle,Mission Name,Date,Fiscal Quarter,Launch Site,Orbit Type,Orbital Inclination,Orbit I,Satellite Quantity,Payload Mass (kg),Mission Outcome,Customer(s)
+mission_no,type_no,launch_vehicle,mission_name,date,fiscal_quarter,launch_site,orbit_type,orbital_inclination,orbit_i,satellite_quantity,payload_mass_kg,mission_outcome,customers
 ,,,,,,,,,,,,,
 54,40,Electron KS,Changes in Latitudes…,11/05/24,4Q24,LC-1,SSO,N/A,N/A,1,N/A,Success,Private (Rumored to be E-Space)
 53,39,Electron KS,Kineis Killed the RadIOT Star,09/20/24,3Q24,LC-1,SSO,98°,643km,5,150,Success,Kineis
