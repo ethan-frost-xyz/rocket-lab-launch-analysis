@@ -1,0 +1,62 @@
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Mission No.,Type No.,Launch Vehicle,Mission Name,Date,Fiscal Quarter,Launch Site,Orbit Type,Orbital Inclination,Orbit I,Satellite Quantity,Payload Mass (kg),Mission Outcome,Customer(s)
+,,,,,,,,,,,,,
+54,40,Electron KS,Changes in Latitudes…,11/05/24,4Q24,LC-1,SSO,N/A,N/A,1,N/A,Success,Private (Rumored to be E-Space)
+53,39,Electron KS,Kineis Killed the RadIOT Star,09/20/24,3Q24,LC-1,SSO,98°,643km,5,150,Success,Kineis
+52,38,Electron KS,A Sky Full of SARS,08/11/24,3Q24,LC-1,LEO,53°,615km,1,165,Success,Capella Space
+51,37,Electron KS,"Owl For One, One For Owl",08/03/24,3Q24,LC-1,LEO,43°,543km,1,100,Success,Synspective
+50,36,Electron KS,No Time Toulouse,06/19/24,2Q24,LC-1,SSO,98°,635km,5,150,Success,Kineis
+49,35,Electron KS,PREFIRE and ICE,06/05/24,2Q24,LC-1,SSO,98°,525km,1,12,Success,NASA
+48,34,Electron KS,"Ready, Aim, PREFIRE",05/25/24,2Q24,LC-1,SSO,98°,525km,1,12,Success,NASA
+47,33,Electron KS,Beginning Of The Swarm,04/24/24,2Q24,LC-1,SSO,97°,"1,000km",2,116,Success,"KAIST, NASA"
+46,32,Electron KS,Live and Let Fly,03/21/24,1Q24,LC-2,LEO,,Classified,,Classified,Success,NRO
+45,31,Electron KS,Owl Night Long,03/13/24,1Q24,LC-1,SSO,97°,561km,1,100,Success,Synspective
+44,30,Electron KS,On Closer Inspection,02/19/24,1Q24,LC-1,SSO,98°,600km,1,150,Success,Astroscale Japan
+43,9,Electron KS-R,Four of a Kind,01/31/24,1Q24,LC-1,LEO,97°,530km,4,112,Success,Astroscale Japan
+42,29,Electron KS,The Moon God Awakens,12/15/23,4Q23,LC-1,LEO,42°,575km,1,100,Success,iQPS
+41,28,Electron KS,We Will Never Desert You,09/19/23,3Q23,LC-1,LEO,53°,635km,1,165,Failure,Capella Space
+40,8,Electron KS-R,We Love The Nightlife,08/24/23,3Q23,LC-1,LEO,53°,640km,1,165,Success,Capella Space
+39,7,Electron KS-R,Baby Come Back,07/18/23,3Q23,LC-1,SSO,99°,"1,000km",7,86,Success,"Telesat (SFL), Spire, NASA"
+38,1,HASTE,Scout's Arrow,06/18/23,2Q23,LC-2,,,Classified,,Classified,Success,Leidos
+37,27,Electron KS,Coming To A Storm Near You,05/26/23,2Q23,LC-1,LEO,32°,550km,2,10.68,Success,NASA
+36,26,Electron KS,Rocket Like A Hurricane,05/08/23,2Q23,LC-1,LEO,32°,550km,2,10.68,Success,NASA
+35,6,Electron KS-R,The Beat Goes On,03/24/23,1Q23,LC-1,LEO,42°,450km,2,112,Success,BlackSky Global
+34,25,Electron KS,Stronger Together,03/16/23,1Q23,LC-2,LEO,44°,600km,2,224,Success,Capella Space
+33,24,Electron KS,Virginia is for Launch Lovers,01/24/23,1Q23,LC-2,LEO,41°,550km,3,30,Success,HawkEye 360
+32,5,Electron KS-R,Catch Me If You Can,11/04/22,4Q22,LC-1,SSO,98°,585km,1,50,Success,Swedish National Space Agency
+31,23,Electron KS,It Argos Up From Here,10/07/22,4Q22,LC-1,SSO,98°,750km,1,118,Success,General Atomics
+30,22,Electron KS,The Owl Spreads Its Wings,09/15/22,3Q22,LC-1,SSO,97°,563km,1,100,Success,Synspective
+29,21,Electron KS,Antipodean Adventure,08/04/22,3Q22,LC-1,LEO,70°,620km,,Classified,Success,NRO
+28,20,Electron KS,Wise One Looks Ahead,07/13/22,3Q22,LC-1,LEO,40°,620km,,Classified,Success,NRO
+27,1,Electron Photon - IP,CAPSTONE,06/28/22,2Q22,LC-1,TLI/NRHO,,,,80,Success,NASA
+26,4,Electron KS-R,There And Back Again,05/02/22,2Q22,LC-1,SSO,94°,520km,34,68,Success,"Alba Orbital, Astrix Astronautics, Aurora, E-Space, Spaceflight, Unseenlabs"
+25,19,Electron KS,Without Mission A Beat,04/02/22,2Q22,LC-1,LEO,53°,430km,2,120,Success,BlackSky Global
+24,18,Electron KS,The Owl's Night Continues,02/28/22,1Q22,LC-1,SSO,97°,561km,1,150,Success,Synspective
+23,17,Electron KS,A Data With Destiny,12/09/21,4Q21,LC-1,LEO,42°,430km,2,120,Success,BlackSky Global
+22,3,Electron KS-R,Love At First Insight,11/18/21,4Q21,LC-1,LEO,42°,430km,2,120,Success,BlackSky Global
+21,16,Electron KS,It's A Little Chile Up Here,07/29/21,3Q21,LC-1,LEO,37°,600km,1,Classified,Success,U.S. Space Force
+20,2,Electron KS-R,Running Out Of Toes,05/15/21,2Q21,LC-1,LEO,50°,430km,2,120,Failure,BlackSky Global
+19,2,Electron Photon - LEO,They Go Up So Fast,03/22/21,1Q21,LC-1,LEO,45°,550km,7,103,Success,"BlackSky Global, Fleet, Myriota, Careweather, UNSW Canberra, U.S. Army"
+18,15,Electron KS,Another One Leaves The Crust,01/20/21,1Q21,LC-1,LEO,90°,"1,200km",1,50,Success,OHB Group
+17,14,Electron KS,The Owl's Night Begins,12/15/20,4Q20,LC-1,SSO,97°,500km,1,150,Success,Synspective
+16,1,Electron KS-R,Return to Sender,11/20/20,4Q20,LC-1,SSO,97°,500km,30,200,Success,"TriSept, Unseenlabs, Swarm, Auckland Space Systems, Valve"
+15,13,Electron KS,In Focus,10/28/20,4Q20,LC-1,SSO,98°,500km,10,72,Success,"Spaceflight, Planet Labs, Canon Electronics"
+14,1,Electron Photon - LEO,I Can't Believe It's Not Optical,08/31/20,3Q20,LC-1,LEO,45°,500km,1,100,Success,Capella Space
+13,12,Electron KS,Pics Or It Didn't Happen,07/04/20,3Q20,LC-1,SSO,98°,500km,7,75,Failure,"Spaceflight, Planet Labs, Canon Electronics, In-Space Missions"
+12,11,Electron KS,Don't Stop Me Now,06/13/20,2Q20,LC-1,LEO,98°,590km,,Classified,Success,"NASA, NRO"
+11,10,Electron KS,Birds of a Feather,01/31/20,1Q20,LC-1,LEO,71°,610km,,Classified,Success,NRO
+10,9,Electron KS,Running Out Of Fingers,12/06/19,4Q19,LC-1,LEO,97°,400km,6,77,Success,"Alba Orbital, ALE Co."
+9,8,Electron KS,As The Crow Flies,10/17/19,4Q19,LC-1,LEO,88°,"1,200km",1,20,Success,Astro Digital
+8,7,Electron KS,"Look Ma, No Hands",08/19/19,3Q19,LC-1,LEO,95°,510km,4,80,Success,"BlackSky Global, Air Force Space Command, Spaceflight, Unseenlabs"
+7,6,Electron KS,Make It Rain,06/29/19,2Q19,LC-1,LEO,45°,450km,7,80,Success,Spaceflight
+6,5,Electron KS,STP-27RD,05/05/19,2Q19,LC-1,LEO,40°,500km,3,180,Success,U.S. Air Force
+5,4,Electron KS,DARPA R3D2,03/28/19,1Q19,LC-1,LEO,40°,425km,1,150,Success,DARPA
+4,3,Electron KS,NASA ELaNa-19,12/16/18,4Q18,LC-1,LEO,85°,500km,13,78,Success,NASA
+3,2,Electron KS,It's Business Time,11/11/18,4Q18,LC-1,LEO,85°,500km,6,45,Success,"Spire, Tyvak, Fleet Space, ICSP, HPS GmbH"
+2,1,Electron KS,Still Testing,01/21/18,1Q18,LC-1,LEO,83°,400km,3,13,Success,"Planet Labs, Spire"
+1,1,Electron,It's a Test,05/25/17,2Q17,LC-1,LEO,85°,500km,0,0,Failure,Test Flight
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,4489.36,92.45%,
+,,,,,,,,,,,,96.67%,
