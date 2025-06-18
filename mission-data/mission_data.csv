@@ -1,61 +1,68 @@
-,,,,,,,,,,,,,
-mission_no,type_no,launch_vehicle,mission_name,date,fiscal_quarter,launch_site,orbit_type,orbital_inclination,orbit_i,satellite_quantity,payload_mass_kg,mission_outcome,customers
-,,,,,,,,,,,,,
-54,40,Electron KS,Changes in Latitudes…,11/05/24,4Q24,LC-1,SSO,N/A,N/A,1,N/A,Success,Private (Rumored to be E-Space)
-53,39,Electron KS,Kineis Killed the RadIOT Star,09/20/24,3Q24,LC-1,SSO,98°,643km,5,150,Success,Kineis
-52,38,Electron KS,A Sky Full of SARS,08/11/24,3Q24,LC-1,LEO,53°,615km,1,165,Success,Capella Space
-51,37,Electron KS,"Owl For One, One For Owl",08/03/24,3Q24,LC-1,LEO,43°,543km,1,100,Success,Synspective
-50,36,Electron KS,No Time Toulouse,06/19/24,2Q24,LC-1,SSO,98°,635km,5,150,Success,Kineis
-49,35,Electron KS,PREFIRE and ICE,06/05/24,2Q24,LC-1,SSO,98°,525km,1,12,Success,NASA
-48,34,Electron KS,"Ready, Aim, PREFIRE",05/25/24,2Q24,LC-1,SSO,98°,525km,1,12,Success,NASA
-47,33,Electron KS,Beginning Of The Swarm,04/24/24,2Q24,LC-1,SSO,97°,"1,000km",2,116,Success,"KAIST, NASA"
-46,32,Electron KS,Live and Let Fly,03/21/24,1Q24,LC-2,LEO,,Classified,,Classified,Success,NRO
-45,31,Electron KS,Owl Night Long,03/13/24,1Q24,LC-1,SSO,97°,561km,1,100,Success,Synspective
-44,30,Electron KS,On Closer Inspection,02/19/24,1Q24,LC-1,SSO,98°,600km,1,150,Success,Astroscale Japan
-43,9,Electron KS-R,Four of a Kind,01/31/24,1Q24,LC-1,LEO,97°,530km,4,112,Success,Astroscale Japan
-42,29,Electron KS,The Moon God Awakens,12/15/23,4Q23,LC-1,LEO,42°,575km,1,100,Success,iQPS
-41,28,Electron KS,We Will Never Desert You,09/19/23,3Q23,LC-1,LEO,53°,635km,1,165,Failure,Capella Space
-40,8,Electron KS-R,We Love The Nightlife,08/24/23,3Q23,LC-1,LEO,53°,640km,1,165,Success,Capella Space
-39,7,Electron KS-R,Baby Come Back,07/18/23,3Q23,LC-1,SSO,99°,"1,000km",7,86,Success,"Telesat (SFL), Spire, NASA"
-38,1,HASTE,Scout's Arrow,06/18/23,2Q23,LC-2,,,Classified,,Classified,Success,Leidos
-37,27,Electron KS,Coming To A Storm Near You,05/26/23,2Q23,LC-1,LEO,32°,550km,2,10.68,Success,NASA
-36,26,Electron KS,Rocket Like A Hurricane,05/08/23,2Q23,LC-1,LEO,32°,550km,2,10.68,Success,NASA
-35,6,Electron KS-R,The Beat Goes On,03/24/23,1Q23,LC-1,LEO,42°,450km,2,112,Success,BlackSky Global
-34,25,Electron KS,Stronger Together,03/16/23,1Q23,LC-2,LEO,44°,600km,2,224,Success,Capella Space
-33,24,Electron KS,Virginia is for Launch Lovers,01/24/23,1Q23,LC-2,LEO,41°,550km,3,30,Success,HawkEye 360
-32,5,Electron KS-R,Catch Me If You Can,11/04/22,4Q22,LC-1,SSO,98°,585km,1,50,Success,Swedish National Space Agency
-31,23,Electron KS,It Argos Up From Here,10/07/22,4Q22,LC-1,SSO,98°,750km,1,118,Success,General Atomics
-30,22,Electron KS,The Owl Spreads Its Wings,09/15/22,3Q22,LC-1,SSO,97°,563km,1,100,Success,Synspective
-29,21,Electron KS,Antipodean Adventure,08/04/22,3Q22,LC-1,LEO,70°,620km,,Classified,Success,NRO
-28,20,Electron KS,Wise One Looks Ahead,07/13/22,3Q22,LC-1,LEO,40°,620km,,Classified,Success,NRO
-27,1,Electron Photon - IP,CAPSTONE,06/28/22,2Q22,LC-1,TLI/NRHO,,,,80,Success,NASA
-26,4,Electron KS-R,There And Back Again,05/02/22,2Q22,LC-1,SSO,94°,520km,34,68,Success,"Alba Orbital, Astrix Astronautics, Aurora, E-Space, Spaceflight, Unseenlabs"
-25,19,Electron KS,Without Mission A Beat,04/02/22,2Q22,LC-1,LEO,53°,430km,2,120,Success,BlackSky Global
-24,18,Electron KS,The Owl's Night Continues,02/28/22,1Q22,LC-1,SSO,97°,561km,1,150,Success,Synspective
-23,17,Electron KS,A Data With Destiny,12/09/21,4Q21,LC-1,LEO,42°,430km,2,120,Success,BlackSky Global
-22,3,Electron KS-R,Love At First Insight,11/18/21,4Q21,LC-1,LEO,42°,430km,2,120,Success,BlackSky Global
-21,16,Electron KS,It's A Little Chile Up Here,07/29/21,3Q21,LC-1,LEO,37°,600km,1,Classified,Success,U.S. Space Force
-20,2,Electron KS-R,Running Out Of Toes,05/15/21,2Q21,LC-1,LEO,50°,430km,2,120,Failure,BlackSky Global
-19,2,Electron Photon - LEO,They Go Up So Fast,03/22/21,1Q21,LC-1,LEO,45°,550km,7,103,Success,"BlackSky Global, Fleet, Myriota, Careweather, UNSW Canberra, U.S. Army"
-18,15,Electron KS,Another One Leaves The Crust,01/20/21,1Q21,LC-1,LEO,90°,"1,200km",1,50,Success,OHB Group
-17,14,Electron KS,The Owl's Night Begins,12/15/20,4Q20,LC-1,SSO,97°,500km,1,150,Success,Synspective
-16,1,Electron KS-R,Return to Sender,11/20/20,4Q20,LC-1,SSO,97°,500km,30,200,Success,"TriSept, Unseenlabs, Swarm, Auckland Space Systems, Valve"
-15,13,Electron KS,In Focus,10/28/20,4Q20,LC-1,SSO,98°,500km,10,72,Success,"Spaceflight, Planet Labs, Canon Electronics"
-14,1,Electron Photon - LEO,I Can't Believe It's Not Optical,08/31/20,3Q20,LC-1,LEO,45°,500km,1,100,Success,Capella Space
-13,12,Electron KS,Pics Or It Didn't Happen,07/04/20,3Q20,LC-1,SSO,98°,500km,7,75,Failure,"Spaceflight, Planet Labs, Canon Electronics, In-Space Missions"
-12,11,Electron KS,Don't Stop Me Now,06/13/20,2Q20,LC-1,LEO,98°,590km,,Classified,Success,"NASA, NRO"
-11,10,Electron KS,Birds of a Feather,01/31/20,1Q20,LC-1,LEO,71°,610km,,Classified,Success,NRO
-10,9,Electron KS,Running Out Of Fingers,12/06/19,4Q19,LC-1,LEO,97°,400km,6,77,Success,"Alba Orbital, ALE Co."
-9,8,Electron KS,As The Crow Flies,10/17/19,4Q19,LC-1,LEO,88°,"1,200km",1,20,Success,Astro Digital
-8,7,Electron KS,"Look Ma, No Hands",08/19/19,3Q19,LC-1,LEO,95°,510km,4,80,Success,"BlackSky Global, Air Force Space Command, Spaceflight, Unseenlabs"
-7,6,Electron KS,Make It Rain,06/29/19,2Q19,LC-1,LEO,45°,450km,7,80,Success,Spaceflight
-6,5,Electron KS,STP-27RD,05/05/19,2Q19,LC-1,LEO,40°,500km,3,180,Success,U.S. Air Force
-5,4,Electron KS,DARPA R3D2,03/28/19,1Q19,LC-1,LEO,40°,425km,1,150,Success,DARPA
-4,3,Electron KS,NASA ELaNa-19,12/16/18,4Q18,LC-1,LEO,85°,500km,13,78,Success,NASA
-3,2,Electron KS,It's Business Time,11/11/18,4Q18,LC-1,LEO,85°,500km,6,45,Success,"Spire, Tyvak, Fleet Space, ICSP, HPS GmbH"
-2,1,Electron KS,Still Testing,01/21/18,1Q18,LC-1,LEO,83°,400km,3,13,Success,"Planet Labs, Spire"
-1,1,Electron,It's a Test,05/25/17,2Q17,LC-1,LEO,85°,500km,0,0,Failure,Test Flight
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,4489.36,92.45%,
-,,,,,,,,,,,,96.67%,
+mission_number,type_number,launch_vehicle,mission_name,launch_date,calendar_quarter,launch_site,orbit_type,orbital_inclination_deg,orbit_altitude_km,"satellite_quantity	",payload_mass_kg,capacity_est_kg,fill_rate_pct,revenue_per_launch_usd,cost_per_launch_usd,simple_fill_rate_pct,delta_pct,mission_outcome,mission_customer
+66,50,electron_ks,the_mountain_god_guards,2025-06-11,2q25,lc-1,leo,42,575,1,100,256.5,39.0,null,null,33,6.0,success,iqps
+65,49,electron_ks,full_steam_ahead,2025-06-03,2q25,lc-1,leo,59,470,1,138,245.8,56.1,null,null,46,10.1,success,blacksky
+64,48,electron_ks,the_sea_gods_sees,2025-05-17,2q25,lc-1,leo,42,575,1,100,256.5,39.0,null,null,33,6.0,success,iqps
+63,47,electron_ks,finding_hot_wildfires_near_you,2025-03-27,1q25,lc-1,leo,97,550,8,96,198.4,48.4,"7,100","5,700",32,16.4,success,ororatech
+62,46,electron_ks,high_five,2025-03-18,1q25,lc-1,sso,97,650,5,150,192.6,77.9,"7,100","5,700",50,27.9,success,kineis
+61,45,electron_ks,the_lightning_god_reigns,2025-03-15,1q25,lc-1,leo,42,575,1,100,256.5,39.0,"7,100","5,700",33,6.0,success,iqps
+60,44,electron_ks,faster_your_space_belts,2025-02-19,1q25,lc-1,leo,59,470,1,138,245.8,56.1,"7,100","5,700",46,10.1,success,blacksky
+59,43,electron_ks,iot_4_you_and_me,2025-02-09,1q25,lc-1,leo,97,646,5,150,192.9,77.8,"7,100","5,700",50,27.8,success,kineis
+58,42,electron_ks,owl_the_way_up,2024-12-22,4q24,lc-1,sso,97,574,1,100,197.3,50.7,"8,900","6,300",33,17.7,success,synspective
+57,3,haste,stonehedge,2024-12-14,4q24,lc-2,null,null,null,null,null,null,null,"8,900","6,300",null,null,success,undisclosed
+56,41,electron_ks,ice_ais_baby,2024-11-25,4q24,lc-1,leo,97,643,5,150,193.1,77.7,"8,900","6,300",50,27.7,success,kineis
+55,2,haste,haste_a_la_vista,2024-11-24,4q24,lc-2,null,null,null,null,null,null,null,"8,900","6,300",null,null,success,mach_tb
+54,40,electron_ks,changes_in_latitudes,2024-11-05,4q24,lc-1,sso,null,null,1,null,null,null,"8,900","6,300",null,null,success,undisclosed
+53,39,electron_ks,kineis_killed_the_radiot_star,2024-09-20,3q24,lc-1,sso,98,643,5,150,192.1,78.1,"7,000","5,000",50,28.1,success,kineis
+52,38,electron_ks,a_sky_full_of_sars,2024-08-11,3q24,lc-1,leo,53,615,1,165,241.6,68.3,"7,000","5,000",55,13.3,success,capella_space
+51,37,electron_ks,"owl_for_one,_one_for_owl",2024-08-03,3q24,lc-1,leo,43,543,1,100,257.4,38.8,"7,000","5,000",33,5.8,success,synspective
+50,36,electron_ks,no_time_toulouse,2024-06-19,2q24,lc-1,sso,98,635,5,150,192.6,77.9,"7,100","5,400",50,27.9,success,kineis
+49,35,electron_ks,prefire_and_ice,2024-06-05,2q24,lc-1,sso,98,525,1,12,198.9,6.0,"7,100","5,400",4,2.0,success,nasa
+48,34,electron_ks,"ready,_aim,_prefire",2024-05-25,2q24,lc-1,sso,98,525,1,12,198.9,6.0,"7,100","5,400",4,2.0,success,nasa
+47,33,electron_ks,beginning_of_the_swarm,2024-04-24,2q24,lc-1,sso,97,1000,2,116,171.1,67.8,"7,100","5,400",39,28.8,success,nasa
+46,32,electron_ks,live_and_let_fly,2024-03-21,1q24,lc-2,leo,null,null,null,null,null,null,"8,200","6,100",null,null,success,nro
+45,31,electron_ks,owl_night_long,2024-03-13,1q24,lc-1,sso,97,561,1,100,197.9,50.5,"8,200","6,100",33,17.5,success,synspective
+44,30,electron_ks,on_closer_inspection,2024-02-19,1q24,lc-1,sso,98,600,1,150,195.0,76.9,"8,200","6,100",50,26.9,success,astroscale_japan
+43,9,electron_ks-r,four_of_a_kind,2024-01-31,1q24,lc-1,leo,97,530,4,112,199.6,56.1,"8,200","6,100",37,19.1,success,astroscale_japan
+42,29,electron_ks,the_moon_god_awakens,2023-12-15,4q23,lc-1,leo,42,575,1,100,256.5,39.0,"7,300","8,100",33,6.0,success,iqps
+41,28,electron_ks,we_will_never_desert_you,2023-09-19,3q23,lc-1,leo,53,635,1,165,240.7,68.6,"7,100","5,200",55,13.6,failure,capella_space
+40,8,electron_ks-r,we_love_the_nightlife,2023-08-24,3q23,lc-1,leo,53,640,1,165,240.4,68.6,"7,100","5,200",55,13.6,success,capella_space
+39,7,electron_ks-r,baby_come_back,2023-07-18,3q23,lc-1,sso,99,1000,7,86,169.0,50.9,"7,100","5,200",29,21.9,success,multiple
+38,1,haste,scout's_arrow,2023-06-18,2q23,lc-2,null,null,null,null,null,null,null,"7,500","7,200",null,null,success,leidos
+37,27,electron_ks,coming_to_a_storm_near_you,2023-05-26,2q23,lc-1,leo,32,550,2,10.68,null,4.0,"7,500","7,200",4,0.0,success,nasa
+36,26,electron_ks,rocket_like_a_hurricane,2023-05-08,2q23,lc-1,leo,32,550,2,10.68,null,4.0,"7,500","7,200",4,0.0,success,nasa
+35,6,electron_ks-r,the_beat_goes_on,2023-03-24,1q23,lc-1,leo,42,450,2,112,264.5,42.3,"6,500","7,500",37,5.3,success,blacksky
+34,25,electron_ks,stronger_together,2023-03-16,1q23,lc-2,leo,44,600,2,224,252.8,88.6,"6,500","7,500",75,13.6,success,capella_space
+33,24,electron_ks,virginia_is_for_launch_lovers,2023-01-24,1q23,lc-2,leo,41,550,3,30,258.9,11.6,"6,500","7,500",10,1.6,success,hawkeye360
+32,5,electron_ks-r,catch_me_if_you_can,2022-11-04,4q22,lc-1,sso,98,585,1,50,195.7,25.5,"6,500","8,100",17,8.5,success,swedish_national_space_agency
+31,23,electron_ks,it_argos_up_from_here,2022-10-07,4q22,lc-1,sso,98,750,1,118,185.5,63.6,"6,500","8,100",39,24.6,success,general_atomics
+30,22,electron_ks,the_owl_spreads_its_wings,2022-09-15,3q22,lc-1,sso,97,563,1,100,197.8,50.6,"7,700","7,300",33,17.6,success,synspective
+29,21,electron_ks,antipodean_adventure,2022-08-04,3q22,lc-1,leo,70,620,,null,222.9,null,"7,700","7,300",null,null,success,nro
+28,20,electron_ks,wise_one_looks_ahead,2022-07-13,3q22,lc-1,leo,40,620,,null,256.0,null,"7,700","7,300",null,null,success,nro
+27,1,electron_photon_ip,capstone,2022-06-28,2q22,lc-1,tli/nrho,null,null,null,80,null,null,"6,300","7,100",27,null,success,nasa
+26,4,electron_ks-r,there_and_back_again,2022-05-02,2q22,lc-1,sso,94,520,34,68,203.3,33.4,"6,300","7,100",23,10.4,success,unseenlabs
+25,19,electron_ks,without_mission_a_beat,2022-04-02,2q22,lc-1,leo,53,430,2,120,254.4,47.2,"6,300","7,100",40,7.2,success,blacksky
+24,18,electron_ks,the_owl's_night_continues,2022-02-28,1q22,lc-1,sso,97,561,1,150,197.9,75.8,"6,300","7,500",50,25.8,success,synspective
+23,17,electron_ks,a_data_with_destiny,2021-12-09,4q21,lc-1,leo,42,430,2,120,265.9,45.1,"5,300","4,200",40,5.1,success,blacksky
+22,3,electron_ks-r,love_at_first_insight,2021-11-18,4q21,lc-1,leo,42,430,2,120,265.9,45.1,"7,200","5,700",40,5.1,success,blacksky
+21,16,electron_ks,it's_a_little_chile_up_here,2021-07-29,3q21,lc-1,leo,37,600,1,null,260.7,null,"12,100","21,300",null,null,success,nro
+20,2,electron_ks-r,running_out_of_toes,2021-05-15,2q21,lc-1,leo,50,430,2,120,257.6,46.6,"7,200","5,700",40,6.6,failure,blacksky
+19,2,electron_photon_leo,they_go_up_so_fast,2021-03-22,1q21,lc-1,leo,45,550,7,103,254.9,40.4,"7,800","5,600",34,6.4,success,blacksky
+18,15,electron_ks,another_one_leaves_the_crust,2021-01-20,1q21,lc-1,leo,90,1200,1,50,165.6,30.2,"7,800","5,600",17,13.2,success,ohb_group
+17,14,electron_ks,the_owl's_night_begins,2020-12-15,4q20,lc-1,sso,97,500,1,150,201.4,74.5,"3,500","5,400",50,24.5,success,synspective
+16,1,electron_ks-r,return_to_sender,2020-11-20,4q20,lc-1,sso,97,500,30,200,201.4,99.3,"3,500","5,400",67,32.3,success,unseenlabs
+15,13,electron_ks,in_focus,2020-10-28,4q20,lc-1,sso,98,500,10,72,200.4,35.9,"3,500","5,400",24,11.9,success,planet_labs
+14,1,electron_photon_leo,i_can't_believe_it's_not_optical,2020-08-31,3q20,lc-1,leo,45,500,1,100,258.6,38.7,"4,700","6,000",33,5.7,success,capella_space
+13,12,electron_ks,pics_or_it_didn't_happen,2020-07-04,3q20,lc-1,sso,98,500,7,75,200.4,37.4,"4,700","6,000",25,12.4,failure,planet_labs
+12,11,electron_ks,don't_stop_me_now,2020-06-13,2q20,lc-1,leo,98,590,null,null,195.5,null,"7,000","9,500",null,null,success,nasa
+11,10,electron_ks,birds_of_a_feather,2020-01-31,1q20,lc-1,leo,71,610,null,null,222.5,null,"6,800","5,100",null,null,success,nro
+10,9,electron_ks,running_out_of_fingers,2019-12-06,4q19,lc-1,leo,97,400,6,77,206.8,37.2,"5,900","8,200",26,11.2,success,alba_orbital
+9,8,electron_ks,as_the_crow_flies,2019-10-17,4q19,lc-1,leo,88,1200,1,20,167.7,11.9,"5,900","8,200",7,4.9,success,astro_digital
+8,7,electron_ks,"look_ma,_no_hands",2019-08-19,3q19,lc-1,leo,95,510,4,80,202.9,39.4,"5,900","8,200",27,12.4,success,blacksky
+7,6,electron_ks,make_it_rain,2019-06-29,2q19,lc-1,leo,45,450,7,80,261.4,30.6,"5,900","8,200",27,3.6,success,spaceflight
+6,5,electron_ks,stp-27rd,2019-05-05,2q19,lc-1,leo,40,500,3,180,263.8,68.2,"5,900","8,200",60,8.2,success,usaf
+5,4,electron_ks,darpa_r3d2,2019-03-28,1q19,lc-1,leo,40,425,1,150,268.3,55.9,"5,900","8,200",50,5.9,success,darpa
+4,3,electron_ks,nasa_elana-19,2018-12-16,4q18,lc-1,leo,85,500,13,78,213.6,36.5,null,null,26,10.5,success,nasa
+3,2,electron_ks,it's_business_time,2018-11-11,4q18,lc-1,leo,85,500,6,45,213.6,21.1,null,null,15,6.1,success,spire_global
+2,1,electron_ks,still_testing,2018-01-21,1q18,lc-1,leo,83,400,3,13,221.3,5.9,null,null,4,1.9,success,planet_labs
+1,1,electron,it's_a_test,2017-05-25,2q17,lc-1,leo,85,500,0,0,213.6,0.0,null,null,0,0.0,failure,testflight
+,,,,,,,,,,,,,,,,,,,
