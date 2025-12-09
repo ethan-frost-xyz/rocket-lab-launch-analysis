@@ -32,8 +32,7 @@ The project analyzes **66 Rocket Lab missions** from 2017-2025, including:
 ## Installation
 
 1. Clone the repository
-2. Install required dependencies:
-```bash
+Update README - commit 23```bash
 pip install -r requirements.txt
 ```
 
@@ -68,6 +67,7 @@ The analysis reveals trends in Rocket Lab's commercial operations including cust
  
 
  
+
 
 
 
