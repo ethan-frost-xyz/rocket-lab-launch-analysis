@@ -64,3 +64,4 @@ This will run interpolation tests against all mission data and show:
 ## Key Insights
 
 The analysis reveals trends in Rocket Lab's commercial operations including customer diversification, payload optimization, and operational efficiency across different orbit types and launch sites.
+ 
